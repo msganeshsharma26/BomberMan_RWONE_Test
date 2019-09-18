@@ -7,6 +7,10 @@ Implemented Explosion of Breakable walls and death of Player
 Implemented the condition of max Bomb for Power up.
 Implimeted the 3 powerups more bombs, length of explosions and speed of player.
 
+Replaced the simple actor component with Character component for local Multiplayer.
+
+Next will Implementation :  Local Multiplayer 
+
 
 
 
