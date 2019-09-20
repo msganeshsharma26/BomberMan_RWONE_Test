@@ -9,8 +9,7 @@ Implimeted the 3 powerups more bombs, length of explosions and speed of player.
 
 Replaced the simple actor component with Character component for local Multiplayer.
 
-Next will Implementation :  Local Multiplayer 
-
+Multiplayer Implemented with two players
 
 
 
