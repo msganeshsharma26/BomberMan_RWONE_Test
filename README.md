@@ -11,8 +11,9 @@ Replaced the simple actor component with Character component for local Multiplay
 
 
 Multiplayer Implemented with two players
-=======
-Next implementation :  Local Multiplayer 
+
+Movement Fixed
+
 
 
 
