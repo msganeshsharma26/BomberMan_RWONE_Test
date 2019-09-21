@@ -12,7 +12,8 @@ Replaced the simple actor component with Character component for local Multiplay
 
 Multiplayer Implemented with two players
 
-Movement Fixed
+Movement Fixed with rotation
+Textures added and Minar Bugs Fixed
 
 
 
